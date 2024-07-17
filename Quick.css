@@ -1,0 +1,257 @@
+:root {
+margin:0px;
+padding:0px;
+background:fff;
+font-family:Arial, Helvetica, sans-serif;
+
+}
+
+.container {
+color:fff;
+border:1px solid grey;
+
+margin:0px auto;
+width:290px;
+
+height:500px;
+}
+
+.orangeheader, .orange {
+    background:red;
+    
+}
+.orangeheader {
+    height:40px; 
+    position:relative;
+}
+.nig1 {
+    position:absolute; 
+    top:5px;
+        left:40px; 
+}
+.nig2 {
+    position:absolute; 
+    top:15px;
+        left:240px;
+}
+.nig3 {
+    position:absolute; 
+    top:15px;
+        left:265px;
+}
+b.myn {
+    position:absolute; 
+    top:10px;
+        left:5px;
+        font-size: 1.2em;
+}
+
+.indigoheader{
+background: #dc0f6b;
+height:40px;
+position:relative;
+z-index:2
+
+}
+    #links li {
+        list-style:none;
+    margin-top:15px; ;
+    font-size:10px;
+    float:left;
+    
+    }
+
+    #links li a {
+        text-decoration:none;
+        color:white;
+        margin:1px;
+        transition:transform 1s ease-in-out;
+        
+    }
+    #links li a:hover {
+        border:2px solid white; 
+        transform:rotate(90deg);
+        transform:rotate(-30deg); 
+    }
+    .btn1, .btn2, .btn3, .btn4, .btn5 {
+        border:1px solid grey;
+        border-radius:10px;
+        padding:5px;
+    }
+    .btn1 {
+        background:red;
+        padding:5px 7px 5px 7px;
+    }
+    .btn2 {
+        background:green;
+        padding:5px 7px 5px 7px;
+    }
+    .btn3 {
+        background:skyblue;
+        padding:5px 7px 5px 7px;
+    }
+    .btn4 {
+        background:purple;
+        padding:5px 7px 5px 7px;
+    }
+    .btn5 {
+        background:#151B54;
+        padding:5px 7px 5px 7px;
+    }
+    
+.whiteheader {
+    background: white;
+    /* #fff */
+    height:40px;
+       
+    }
+    #greybtn {
+        border:1px solid black;
+        height:30px;
+        background:#808080;
+        border-radius:20px;
+        margin-left:15px;
+        position:relative;
+        top:-19px;
+        z-index:1;
+        width:260px;
+       
+    }
+    #deepred {
+        background:darkred;   
+        height:260px;
+        padding:5px;
+        
+    }
+    .orange {
+        height:230px;
+        width:170px;
+        border-radius: 5px;
+        margin-top:10px;
+        
+    }
+    .orange li {
+        list-style:none;
+        margin-left:5px;
+        font-size:0.8em;
+        line-height: 20px;
+       
+    }
+   
+    .orange li a {
+        text-decoration:none;
+        color:white;  
+    }
+    .coloredleft {
+      position:relative;   
+    }
+    .coloredleft li  {
+      
+        list-style:none;
+       position:relative;
+        font-size:0.8em;
+        top:-230px;
+        left:180px;
+        line-height: 20px;
+        margin-bottom: 8px;
+        
+    }
+    .coloredleft li a {
+        text-decoration: none;
+        color:white;
+        
+        
+         }
+.green, .red, .lightblue, .purple, .black, .yellow, .lemon, .pink {
+    border:1px solid grey;
+    border-radius:10px;
+    padding:3px;
+    font-size: 0.8em;
+     
+    
+}
+.green{
+    background:green;
+    padding:7px 37px 7px 37px;
+}
+.red{
+    background:red;
+    padding:7px 37px 7px 37px;
+}
+.lightblue{
+    background:lightblue;
+    padding:7px 30px 7px 30px;
+    color:black !important;
+}
+.purple{
+    background:purple;
+    padding:7px 19px 7px 19px;
+}
+.black{
+    background:black;
+    padding:7px 23px 7px 23px;
+}
+.yellow{
+    background:yellow;
+    padding:7px 37px 7px 37px;
+    color:black !important;
+}
+.lemon{
+    background:lime;
+    padding:7px 30px 7px 30px;
+    color:black !important;
+}
+.pink {
+    background:pink;
+    padding:7px 33px 7px 33px;
+    color:black !important;
+}
+.lastpart {
+    background:red;
+    height:125px;   
+    position:relative;
+}
+.play {
+    position:relative;
+    top:10px;   
+    left:35px;
+}
+.map li {
+list-style:none;
+margin:5px;
+margin-top:25px;
+line-height: 2px;;
+font-size: 0.8em;
+}
+.map li a{
+    text-decoration:none;
+    margin:5px;
+    color:white;
+    
+    }
+.play1 {
+    position:relative;
+    top:10px;   
+    left:40px; 
+}
+.third {
+    position:absolute;
+    top:50px;   
+    left:145px; 
+    
+font-size: 0.9em;
+}
+.fourth {
+    position:absolute;
+    top:80px;   
+    left:145px; 
+}
+.first {
+    margin-top:20px; 
+}
+.copy {
+    position:absolute;
+    top:95px;   
+    font-size: 0.6em;
+    left:10px;
+}
